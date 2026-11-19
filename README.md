@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/Menma1993/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/Menma1993/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-Entry v1 for make.fun bounty `news-image-20261119`: sums up Thursday 19 November 2026's world news in one 1024×1024 image — a cream broadsheet front page with 45 verified stories: 3 illustrated leads, 10 cards, a numbers strip, a world map with numbered pins, 28 numbered briefs and a sources footer.
+Entry v1 for make.fun bounty `news-image-20261119`: sums up Thursday 19 November 2026's world news in one 1024×1024 image — a cream broadsheet front page with 45 verified stories: 3 illustrated leads, 10 cards, a numbers strip, a world map with numbered pins, 28 numbered briefs and a sources footer. Every story was checked against reports first published on 19 November 2026; stories from earlier days were excluded.
 
 ## The image
 

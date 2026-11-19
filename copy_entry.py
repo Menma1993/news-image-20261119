@@ -15,9 +15,12 @@ from pathlib import Path
 
 def main():
     here = Path(__file__).resolve().parent
+    src = here / "entry.png"
+    if not src.is_file():
+        raise SystemExit("entry.png missing next to main.py")
     out_dir = Path(os.environ.get("MAKEFUN_OUTPUT_DIR", "/output"))
     out_dir.mkdir(parents=True, exist_ok=True)
-    shutil.copyfile(here / "entry.png", out_dir / "entry.png")
+    shutil.copyfile(src, out_dir / "entry.png")
 
 
 if __name__ == "__main__":
